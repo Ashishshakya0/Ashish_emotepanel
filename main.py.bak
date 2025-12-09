@@ -211,8 +211,7 @@ EMOTES = [
     {"name": "EVO P90", "id": "909049010"},
     {"name": "EVO M60", "id": "909051003"},
     {"name": "EVO MP5", "id": "909033002"},
-    {"name": "EVO M10", "id": "909000081"},
-    {"name": "EVO M10 RED", "id": "909033002"},
+    
     # Legendary Emotes
     {"name": "Dragon Slayer", "id": "909050001"},
     {"name": "Phoenix Rise", "id": "909050002"},
@@ -762,14 +761,6 @@ HTML_TEMPLATE = '''
                 
                 <button type="button" class="evo-btn" onclick="sendEvoEmote('909033002')">
                        <i class="fas fa-gun"></i> MP5 MAX
-                </button>
-                
-                <button type="button" class="evo-btn" onclick="sendEvoEmote('909000081')">
-                       <i class="fas fa-gun"></i> M10
-                </button>
-                
-<button type="button" class="evo-btn" onclick="sendEvoEmote('909039011')">
-                       <i class="fas fa-gun"></i> M10 RED
                 </button>
                 
                 <button type="button" class="evo-btn" onclick="sendEvoEmote('909035007')">
